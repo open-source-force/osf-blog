@@ -48,7 +48,13 @@ What about Prince, Cher, Madonna, and Bono?
 
 I don't want to bore you with why all of this matters, but I'll expand a bit in a footnote for anyone curious.[^2]
 
+Pretty much all programmers like types because other programmers can write programs to check your types and spare you the embarassment of having a bug in your code when you submit it for review.
+This is all well and good in the business world where the stuff you code is for specific use cases where the types you have more or less cover contrived business needs in the first place, but the benefit to programmers undermines the more interesting ontological question of what things are.
+Or maybe more perniciously, it imbues to the type the notion that it _is_ what the thing _is_, and is not the facsimile of what the thing _is_ that it _is_.
 
+What is a name after all? 
+One could imagine an afternoon at the bar, debating the concept, and never reaching a satisfying conclusion.
+If you want to make something, you have to define it somehow. 
 
 
 
