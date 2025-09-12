@@ -56,6 +56,27 @@ What is a name after all?
 One could imagine an afternoon at the bar, debating the concept, and never reaching a satisfying conclusion.
 If you want to make something, you have to define it somehow. 
 
+Now there is a pretty significant cost to this seemingly simple piece of information, which is that users hate having to fill out forms, and having to figure out how to fill them out is even worse. 
+If you, like me, have ever wondered why you have to fill out these stupid forms all the time, it's because people, like me, can't agree on what things are.
+Like a lot of things, you can trace this argument back to ancient philosophers, and at least a few of them were as good as modern day data "architects." 
+
+![a ridiculous onboarding form from Yahoo](./yahoo.jpg)
+
+This whole user experience, called onboarding in the biz, is one of the largest, and arguably most important part of the customer acquisition funnel. 
+Make it _too_ annoying, and people bounce off and leave, make it too easy and you don't gather enough information from them to incessently spam them with advertising. 
+
+This has an interesting side effect on software products over time. 
+The product is built out behind the onboarding, adding feature upon feature without that necessarily being the best thing. 
+Ostensibly this makes you "competitive," but at what cost?
+
+## Drills and sewing machines
+
+Super gigachad programmers like me use a little program called vi to write code. 
+It came out in 1976, and hasn't changed much from that year. 
+It is, for me, the most useful tool that I "own," and it asks nothing of me. 
+It doesn't know my name, it doesn't know my email, it just sits there waiting to help me achieve my dreams. 
+This is how machines should work.
+
 
 
 
