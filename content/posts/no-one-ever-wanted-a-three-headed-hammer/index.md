@@ -116,6 +116,47 @@ I call this the legislature problem.
 In software, it's not uncommon to have a product team, or a feature development team, and that team's job is to work on the product. 
 Most of the time this means churning out features regardless of whether or not the features are needed. 
 
+There are many problems with this approach, and the ones I have to deal with at work aren't worth talking about.
+What is worth talking about is how, over time, pretty much all software becomes unusable garbage. 
+And when I say unusable, I don't mean people can't use what they already know how to use, I mean people just give up on trying all the new "features" that companies are adding. 
+
+The last twenty years or so have given us a very skewed idea of what success for a product looks like. 
+There's never before been a globally available distribution system for that's consistent for the number of users who now have smartphones that can access the internet. 
+Facebook claims two billion monthly active users.
+
+How many do you think hammers have?
+
+Meta has tens of thousands of employees. 
+Their product is selling your eyeballs to advertisers. 
+So the "features" they're working on are ones that get you to spend _more_ time in Facebook. 
+
+Nothing to really do about that, Meta can do what they want even if it's horrible so long as it doesn't break too many of the laws that actual legislatures churn out at around the pace of Facebook releases.
+The problem is that they've convinced a bunch of visionary CEOs that this is how software is to be made.
+So now when you go to write a grocery list you have to wait for your phone to sync, and have different header font weights, and three dots, and hamburger buttons, and fabs, and uuuugggghhhh.
+
+I've deployed a fair number of apps, and every single one of them was meant to help humans complete a task that was necessary for what they needed or wanted to do--that is, they were tools and not media.
+Every single one had people who wanted us to find ways to keep people in the app.
+
+You know what you call a hammer that makes you hammer longer than you need to be hammering?
+
+A bad hammer.
+
+But if your hammer development team is just employed forever to add things to your hammer, they're gonna add that third head even if no one wants or needs it.
+The thing that keeps that from happening is that other people make hammers, and it's real easy to make a hammer that's better than a three-headed hammer.
+
+So what's the two-headed hammer for Facebook?
+
+## Content is king
+
+A hammer is a tool, tools want to get the job done as quickly as possible. 
+Social media (heretofor referred to as SoMa) isn't a tool to do tasks. 
+It is a way to fill idle time, so figuring out how to compete with it isn't as straight forward as just doing it "better."
+
+But if we consider use cases where time is limited, we can think of some metric.
+More or less all SoMa platforms are divided into three types of posts: posts you've elected to seei (P), posts the platform presents to you to try and keep you engaged (E), and advertising (🤮). 
+The goal being to have P provide enough dopamine hits that you suffer through E and 🤮. 
+
+ 
 
 
 
