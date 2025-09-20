@@ -153,10 +153,16 @@ Social media (heretofor referred to as SoMa) isn't a tool to do tasks.
 It is a way to fill idle time, so figuring out how to compete with it isn't as straight forward as just doing it "better."
 
 But if we consider use cases where time is limited, we can think of some metric.
-More or less all SoMa platforms are divided into three types of posts: posts you've elected to seei (P), posts the platform presents to you to try and keep you engaged (E), and advertising (🤮). 
+More or less all SoMa platforms are divided into three types of posts: posts you've elected to see (P), posts the platform presents to you to try and keep you engaged (E), and advertising (🤮). 
 The goal being to have P provide enough dopamine hits that you suffer through E and 🤮. 
 
- 
+Presumably if you provided a platform with just P and E, folks would use that.
+That's the notion behind BlueSky, and to a lesser extent the apps of the Fediverse, and I'd say thus far results have been mixed. 
+These platforms give more control to users, but users don't really seem to want that. 
+
+They just want the dopamine hit. 
+
+So what if we just took the feeds you were already getting, and removed the ads? 
 
 
 
