@@ -162,8 +162,111 @@ These platforms give more control to users, but users don't really seem to want 
 
 They just want the dopamine hit. 
 
-So what if we just took the feeds you were already getting, and removed the ads? 
+So... what if we do that?
 
+![the Patrick from sponge bob meme asking how about instead of making money for billionaires, we make money for ourselves?](./patrick.jpg)
+
+Did you know that if you make content you own it forever regardless of whether you post it to social media or not? 
+If you make a reel, you can post that to tiktok too.
+Make that easy enough, and provide the people a way to get paid and you'll get the content so long as there're viewers.
+And there'll be viewers so long as you give them the right tool.
+
+I don't want to have to assemble my hammer.
+I don't want to have it handed to me in some giant kit of optional attachments and doodads. 
+I don't want to hear about servers and firehoses and frames and self-sovereign whatever, and I sure as hell don't want to hear the word blockchain. 
+
+I just want the hit man, scrolling words/pics/vids tapped into my brain to help me forget the hour long meeting I was just in about the problems of user-curated location discovery. 
+
+Just give me a hammer that hammers.
+
+You get the content in a place without ads that just works, and I'm there.
+
+## These whippersnappers these days
+
+The youts want to be influencers. 
+I can't blame them, if you got your phone from your parents, that's basically no startup cost you know?
+Mooching off your parents worked for Bezos, Trump, Zuck, Musk, Page and Brin, might as well help the youts too.
+
+Some of my grumpy friends think this move to SoMa content creation is quite the end of civilization, but I'm like really mister played in bands until you were thirty-five?
+I wanted to be a writer when I was a kid. 
+A lot of my friends wanted to make movies. 
+And I still know plenty of people who would happily make art for a living if they could.
+
+We've all wanted to be creators at one point or another, or at the very least make money doing something we enjoyed. 
+The problem with doing that is the same as it has always been, which is that it is very difficult to make a living creating things. 
+SoMa, like all creative outlets before it, suffers from massive survivorship bias.
+For every Mr. Beast, Pokimane, and Kardashian, there are thousands, nay millions of less _wealthy_ influencers.
+
+But are they less successful?
+
+Ah success. 
+Fewer constructs of humanity writhe like a pile of slimey larva poised to slip through one's grasp lest one hang onto them long enough for them to bite you. 
+Poor man want to be rich, rich man want to be king, and a king's not satisfied 'til he owns everything.
+
+We were fed the dumbest lie growing up, find what you love, and you'll never work a day in your life.
+I've got a toddler who's into Dragonforce, brunch, and happy halloween things. 
+He's more fun than most adults, and I love him dearly, but it's still work.
+
+Everything less fun than hanging with him, which is everything, and is especially whatever job I happen to have, is you-got-to-pay-me work.
+Writing though, that I will do on my own time, and in my own way, just for funsies. 
+I'm doing it right now in fact. 
+
+When I (self-)published my first book I told myself it would be a success if I sold more than one copy. 
+I sold...twelve. 
+That is One Thousand Two Hundred percent more successful than I expected. 
+
+To put this into perspective, if the sun were twelve-hundred times[^1] more massive than it is Claude posits this would be our solar system: 
+
+> This wouldn't just kill everything in our solar system - it would prevent any life from ever forming in the first place. The star would be so energetic and short-lived that planets wouldn't have time to cool, develop atmospheres, or support any chemistry necessary for life.
+
+If you ever need a little pick me up, just try to think of what would happen if a star did something X many times as you did.
+
+You know it's been a while for me, but I do remember a bit of what it was like to be young. 
+My "influencing" was done with my band. 
+We weren't serious, but we were known for helping everyone get drunk, and for our efforts several venues paid us in free drinks and even a bit of the rake on the night just for bringing in the lushes. 
+
+We even had merch, which was almost as much fun as the music. 
+Every album we put out was a discography, because that's both awesome and hilarious. 
+We made shirts of course, but the real gem was when our guitarist Tim went down to the corner store, picked up five white shower curtains, and drew our logo on them. 
+Those sold out immediately. 
+
+We never made a ton of money, but we did usually make enough for a cube of Oldstyle at our next practice.
+You know what's pretty awesome?
+Paying for beer with money you made playing music for beer. 
+
+That, my friends, is success. 
+
+## Five bucks
+
+I've been making things for as long as I can remember.
+I remember being sat down at a typewriter in first or second grade because I just wanted to write stories. 
+Now I'm in my fourties, and there are two things I've learned:
+
+* No matter how good your thing is, people will tell you it sucks.
+
+* No matter what you're trying to do, people will tell you you're going to fail.
+
+One of the biggest bands on Earth's singer played their first recording at a party at my parent's house right after leaving the studio. 
+We all told him it was too poppy lol. 
+It was, for us. 
+I never bought one of their albums, but millions of other people did. 
+
+The Land of Whiskey didn't have the same broad appeal, but it did make enough money for a bit of its titular beverage, and was probably commensurate with my musical ability. 
+And if that's the band you were, are, or are going to be in then you're my people.
+
+If like me, you're not buying that whiskey without the thirty bucks the Mutiny gives you for bringing in your drunk friends, you're even more my people.
+
+And it's for you that I'd like to hand you a hammer.
+
+The point of the hammer is to bash through the walled gardens of tech gigantocorps, and pry five bucks from them.
+If you're my people, you can use five bucks.
+If you can't, feel free to give it to someone else. 
+
+Your hammer's going to work because it's only got two heads.
+The gigantocorps have hammers so overladen with nonsense they've lost their rigidity, and just consume by tendril all that is good in this world like the pollution that consumes the gods in Princess Monanoke. 
+
+All you have to do are the things you would be doing if you weren't doing the things you have to be doing. 
+The hammer will do the rest. 
 
 
 
@@ -176,3 +279,4 @@ So what if we just took the feeds you were already getting, and removed the ads?
 
 [^1]: Now that AI is around, I find it necessary to constantly and incessantly remind people that computers are not sentient. They may become so, and it might be the case that saying they are not now is bad, but they aren't sentient as of this writing. 
 [^2]: Let's say you want to do something like give everyone with a last name starting with the letter B a dollar. That is pretty easy to do if you have a separate LAST NAME field. On the other hand, on the client side it's much easier to just have a single NAME field and let people enter what they want. If your system is going to be supporting many inputs of names from different places, flexibility reigns. 
+[^3]: The mathematically inclined reader will notice that there is quite a difference between 1200% and 1200 times more. The literarily inclined reader will note I never said they were equivalent. When understanding a construct, use whatever methods are at your disposal. 
