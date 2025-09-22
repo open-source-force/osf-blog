@@ -268,6 +268,106 @@ The gigantocorps have hammers so overladen with nonsense they've lost their rigi
 All you have to do are the things you would be doing if you weren't doing the things you have to be doing. 
 The hammer will do the rest. 
 
+## Fourty billion
+
+There're around eight billion people on the planet, so to give everyone five bucks, we've got to find fourty billion bucks. 
+Well when it comes with finding a billion dollars you've got to start somehwere you know there are a billion dollars.
+Luckily there's a word for people like that. 
+
+Let's see.
+There's Musk, Ellison, Zuck, Jeffy B, Page n' Brin, Arnault, Buffet, Huang, and Ballmer. 
+No judgement on these guys, I'll leave you to decide where you rank them on whatever ranking you have. 
+They've just got what we need: billions and billions.
+
+Here're the companies feeding these guys' superyacht needs: Tesla and SpaceX, Oracle, Meta, Amazon, Alphabet (Google), LVMH (luxury goods), Berkshire Hathaway (just read up on this juggernaut. It's a lot), Nvidia, and Microsoft.
+The market cap of these companies is collectively around $20 trillion.
+$40 billion is 0.2% of $20 trillion. 
+If these companies were a Hamilton, we'd be grabbing four nickels. 
+
+So what we're going to do to get those nickels is build hammers that hammer better than the thirty-two-sided monstrosities that are feeding these companies the hamiltons in the first place. 
+Here in America we call that competition. 
+
+Since those thirty-two-sided hammers are built by armies of highly paid professionals, they cost a lot to run and operate. 
+This cost is passed along to the consumer in fees that range from 10-30%. 
+Since our hammers are built by one hyper motivated weirdo, and a motley ensemble of bored professionals, we undercut the market at 9%.
+If you make a better hammer and sell it for cheaper, you should be able to compete.
+
+Usually this type of thing is done as a startup. 
+To fund the startup you take on investment.
+If the startup does well, you, and the investors, do well. 
+That is not what this is.
+
+There are no investors here. 
+If we make $Any billion, I'm not going to use it to become a billionaire.
+I'm not even sure I want to be a millionaire, though inflation rates are surely testing my resolve on that.
+
+That 9%'s got to go somewhere though. 
+I'm not going to lie and say I'm not going to keep enough to send my kid to college, and maybe retire some day, but after that the rest goes to the 7,999,997,000 people on planet Earth that aren't billionaires.
+
+## Why?
+
+I've been at this for nearly a decade, and if we expand "this" to include just having a desire to change the world for a better, it is my second oldest goal in life (the first being to shoot a fireball out of my hands, which I don't believe is mutually exclusive).
+You run into a lot of people who want to do the same.
+This is not a judgement on anyone with that goal whose motivated enough to try something, that effort is mostly worthy (remember there're always people trying to change the world to a place you don't want it to go), but it is an observation that has helped me.
+
+Pointing out all of the ways the world sucks is important, and powerful, but it is, to some extent, the weapon of those who haven't yet found their way of affecting change in the world. 
+Again, there's no shade being thrown here, affecting change in the world is not an easy thing to do.
+
+Once you do start affecting change, you will often find you have to engage in some measure of coalition building.
+One of the many reasons why politicians _who get elected_ almost always disappoint is because _you_ are not representative of everyone that they represent. 
+If you want to affect change amongst all of humanity you need to go even broader in your coalition, usually by writing some gobbledegook and saying a deity said it, and hoping for the best. 
+
+One of the things that had to happen to get everyone five bucks was for there to be a way of distributing those funds to the participants of transactions on the platform. 
+Those participants are the Labor of the transaction, and by paying them instead of the Capital-owners of the transaction, transactions on the platform are more socialist than capitalist.
+That statement will be contentious to everyone who knows those two terms, and any polemicist adherent to either or will likely take issue.
+
+I am interested in providing the technological machinery for distribution of surplus value to Labor.
+I am interested in that because I do not believe it exists sufficiently, and I'd like to see what happens if it does. 
+Do _I_ think everyone on the planet needs to be a Socialist? 
+No, I do not. 
+Do I think everyone who uses this platform becomes a Socialist?
+No, I do not. 
+
+Do I think if this platform gets popular at all that the subject of Socialism is going to come up, and, insomuch as it is applied to this platform, piss off Socialist and non-Socialists alike?
+You betcha I do. 
+
+So I want to take a moment here to say why I'm doing all of this. 
+
+Up above I listed a couple billionaires, and a non-billionaire who all got six-figure plus help from their parents when they were starting out. 
+I'd imagine that's not most people's experience. 
+
+I remember sitting in the office in the basement of the Apple Store I worked at in my twenties when one of my coworkers, probably late thirties at the time, said that he felt that if things ever went totally pear-shaped he could still move in with his parents. 
+Another coworker, who had a reputation for his man-of-the-people wisdom, pointed out that the first coworker didn't understand just how much of a privelage that was. 
+
+Having your parents not be there for you is a situation I don't wish on anyone. 
+Whether through natural causes, some kind of disappearing act, tough love worthy of a Johnny Cash song, addiction, neglect, narcissism, indoctrination, or whatever litany of awful things I've forgotten here, having a parent lose you hits in a way children don't need to experience. 
+
+I grew up in a home with one or two of these, and I didn't realize it until I was long gone.
+But I did recognize it in someone else's experience. 
+It felt a way I had never felt before, because I couldn't understand it.
+I couldn't understand how someone could be cruel to a child in that way.
+
+I didn't feel that way again until my son was born. 
+Sitting in front of him taking a bath, and feeling overwhelmed just unable to fathom how anyone could be cruel to a smiling toddler like him.
+
+That feeling comes from a hormone called vasopressin.
+It, along with oxytocin, are the two hormones that dominate when you Love someone the way I Love my son. 
+Oxytocin is what makes you feel good with the person, and vasopressin is what makes you protective of that person. 
+Since humans are social animals, vasopressin manifests itself in us creating social units to protect our Loves. 
+
+For whatever reason, the social unit my brain locked onto is _everyone_, and the threat is life being harder than it needs to be. 
+Virtually everyone of those reasons for a parent to lose you above, while certainly not solved, can be ammeliorated by just spreading the wealth of the Earth a little more evenly. 
+Billionaires are the ones to get that wealth from, because they're the ones that have it.
+
+Of course the fact that once someone becomes a billionaire they sure seem to want to fuck everyone, especially children, does make them a bit of a threat too, but I didn't know the latter part of that when I started all this.
+
+So I really don't care what ist you are, or how you think things should be, or if the sky is green and the grass is blue. 
+We can talk about that at the bar.
+All I care about is finding $40 billion, and divvying it up amongst the people of the Earth.
+
+And I'm going to do that by building a bunch of hammers.
+
+Then y'all can argue over whether to put them on flag or not.
 
 
 
