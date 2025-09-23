@@ -1,7 +1,7 @@
 +++
-title = "\"Back to base-ics\""
-date = "2025-08-15"
-updated = "2025-08-15"
+title = "No one ever wanted a three-headed hammer"
+date = "2025-09-15"
+updated = "2025-09-15"
 +++
 
 #### from the desk of [planetnineisaspaceship][planetnine]
@@ -21,7 +21,7 @@ Way back in high school I got into set construction.
 I've always loved building stuff, and it definitely scratched the itch. 
 It culminated in this masterpiece:
 
-![a twenty foot long skee ball machine built by me and some friends](./skeeball.png)
+![a twenty foot long skee ball machine built by me and some friends](./skeeball.jpeg)
 This bad boy was twenty feet long and twelve feet high, and only broke two light fixtures in the Student Union. 
 
 Building stuff out of wood is somewhat more accessible than programming, though it is certainly nuanced and complex in its own right, so I'm going to use it as a metaphor here.
@@ -55,6 +55,10 @@ Or maybe more perniciously, it imbues to the type the notion that it _is_ what t
 What is a name after all? 
 One could imagine an afternoon at the bar, debating the concept, and never reaching a satisfying conclusion.
 If you want to make something, you have to define it somehow. 
+
+If you expand this need for definition out to all of the things you need in your software to do all the stuff its supposed to do, you pretty much always end up with some needlessly complex and invasive form that the user needs to fill out.
+I remember getting into a huge argument with my boss over whether or not to include birthdate in our user onboarding. 
+Eight years after that argument, when I left, the company had never once used that information. 
 
 Now there is a pretty significant cost to this seemingly simple piece of information, which is that users hate having to fill out forms, and having to figure out how to fill them out is even worse. 
 If you, like me, have ever wondered why you have to fill out these stupid forms all the time, it's because people, like me, can't agree on what things are.
@@ -121,7 +125,7 @@ What is worth talking about is how, over time, pretty much all software becomes 
 And when I say unusable, I don't mean people can't use what they already know how to use, I mean people just give up on trying all the new "features" that companies are adding. 
 
 The last twenty years or so have given us a very skewed idea of what success for a product looks like. 
-There's never before been a globally available distribution system for that's consistent for the number of users who now have smartphones that can access the internet. 
+There's never before been a globally available distribution system for anything that reaches the number of users who now have smartphones that can access the internet. 
 Facebook claims two billion monthly active users.
 
 How many do you think hammers have?
@@ -187,7 +191,7 @@ The youts want to be influencers.
 I can't blame them, if you got your phone from your parents, that's basically no startup cost you know?
 Mooching off your parents worked for Bezos, Trump, Zuck, Musk, Page and Brin, might as well help the youts too.
 
-Some of my grumpy friends think this move to SoMa content creation is quite the end of civilization, but I'm like really mister played in bands until you were thirty-five?
+Some of my grumpy friends think this move to SoMa content creation is quite the end of civilization, but I'm like really mister played-in-bands-until-you-were-thirty-five?
 I wanted to be a writer when I was a kid. 
 A lot of my friends wanted to make movies. 
 And I still know plenty of people who would happily make art for a living if they could.
@@ -215,7 +219,7 @@ When I (self-)published my first book I told myself it would be a success if I s
 I sold...twelve. 
 That is One Thousand Two Hundred percent more successful than I expected. 
 
-To put this into perspective, if the sun were twelve-hundred times[^1] more massive than it is Claude posits this would be our solar system: 
+To put this into perspective, if the sun were twelve-hundred times[^3] more massive than it is Claude posits this would be our solar system: 
 
 > This wouldn't just kill everything in our solar system - it would prevent any life from ever forming in the first place. The star would be so energetic and short-lived that planets wouldn't have time to cool, develop atmospheres, or support any chemistry necessary for life.
 
@@ -376,6 +380,7 @@ Then y'all can argue over whether to put them on flag or not.
 
 
 [planetnine]: https://github.com/planet-nine-app/planet-nine
+[carrier-bag]: https://opensource-force.github.io/osf-blog/posts/back-to-base-ics/#what-s-in-a-name
 
 [^1]: Now that AI is around, I find it necessary to constantly and incessantly remind people that computers are not sentient. They may become so, and it might be the case that saying they are not now is bad, but they aren't sentient as of this writing. 
 [^2]: Let's say you want to do something like give everyone with a last name starting with the letter B a dollar. That is pretty easy to do if you have a separate LAST NAME field. On the other hand, on the client side it's much easier to just have a single NAME field and let people enter what they want. If your system is going to be supporting many inputs of names from different places, flexibility reigns. 
