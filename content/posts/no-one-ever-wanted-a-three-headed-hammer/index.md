@@ -244,7 +244,7 @@ That, my friends, is success.
 
 I've been making things for as long as I can remember.
 I remember being sat down at a typewriter in first or second grade because I just wanted to write stories. 
-Now I'm in my fourties, and there are two things I've learned:
+Now I'm in my forties, and there are two things I've learned:
 
 * No matter how good your thing is, people will tell you it sucks.
 
@@ -269,12 +269,14 @@ If you can't, feel free to give it to someone else.
 Your hammer's going to work because it's only got two heads.
 The gigantocorps have hammers so overladen with nonsense they've lost their rigidity, and just consume by tendril all that is good in this world like the pollution that consumes the gods in Princess Monanoke. 
 
+![the boar at the beginning of Princess Monanoke, consumed by corruption and filth, a fitting metaphor for Facebook these days](./boar.jpg.webp)
+
 All you have to do are the things you would be doing if you weren't doing the things you have to be doing. 
 The hammer will do the rest. 
 
-## Fourty billion
+## Forty billion
 
-There're around eight billion people on the planet, so to give everyone five bucks, we've got to find fourty billion bucks. 
+There're around eight billion people on the planet, so to give everyone five bucks, we've got to find forty billion bucks. 
 Well when it comes with finding a billion dollars you've got to start somehwere you know there are a billion dollars.
 Luckily there's a word for people like that. 
 
@@ -323,7 +325,7 @@ If you want to affect change amongst all of humanity you need to go even broader
 
 One of the things that had to happen to get everyone five bucks was for there to be a way of distributing those funds to the participants of transactions on the platform. 
 Those participants are the Labor of the transaction, and by paying them instead of the Capital-owners of the transaction, transactions on the platform are more socialist than capitalist.
-That statement will be contentious to everyone who knows those two terms, and any polemicist adherent to either or will likely take issue.
+That statement will be contentious to everyone who knows those two terms, and any polemicist adherent to either will likely take issue.
 
 I am interested in providing the technological machinery for distribution of surplus value to Labor.
 I am interested in that because I do not believe it exists sufficiently, and I'd like to see what happens if it does. 
@@ -332,7 +334,7 @@ No, I do not.
 Do I think everyone who uses this platform becomes a Socialist?
 No, I do not. 
 
-Do I think if this platform gets popular at all that the subject of Socialism is going to come up, and, insomuch as it is applied to this platform, piss off Socialist and non-Socialists alike?
+Do I think if this platform gets popular at all that the subject of Socialism is going to come up, and, insomuch as it is applied to this platform, piss off Socialists and non-Socialists alike?
 You betcha I do. 
 
 So I want to take a moment here to say why I'm doing all of this. 
@@ -357,7 +359,7 @@ Sitting in front of him taking a bath, and feeling overwhelmed just unable to fa
 That feeling comes from a hormone called vasopressin.
 It, along with oxytocin, are the two hormones that dominate when you Love someone the way I Love my son. 
 Oxytocin is what makes you feel good with the person, and vasopressin is what makes you protective of that person. 
-Since humans are social animals, vasopressin manifests itself in us creating social units to protect our Loves. 
+Since humans are social animals, vasopressin manifests itself in us creating social units to protect our Loved Ones. 
 
 For whatever reason, the social unit my brain locked onto is _everyone_, and the threat is life being harder than it needs to be. 
 Virtually everyone of those reasons for a parent to lose you above, while certainly not solved, can be ammeliorated by just spreading the wealth of the Earth a little more evenly. 
@@ -371,7 +373,7 @@ All I care about is finding $40 billion, and divvying it up amongst the people o
 
 And I'm going to do that by building a bunch of hammers.
 
-Then y'all can argue over whether to put them on flag or not.
+Then y'all can argue over whether to put them on flags or not.
 
 
 
