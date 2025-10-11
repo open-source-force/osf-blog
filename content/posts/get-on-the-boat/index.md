@@ -205,8 +205,49 @@ There are many cool things about using emoji as a passphrase, but the coolest I 
 Just how Cassian could say, "I have friends everywhere," in any hallway on Coruscant and Mon Mothma would respond if she was in earshot, I can drop ☮️💚🏴<200d>☠️  anywhere that text is allowed, which is pretty much everywhere online.
 The only missing piece was how to handle this text, and for that it's best I show you:
 
+<video demo here>
+
+## Anyone need anything?
+
+Eight years ago my mind was racing as I was thinking about this stuff, and I had to give a presentation at a work "retreat."
+This thought that friendship is magic kept looping in my head, and I keep coming back to it. 
+Bare with me as I explain.
+
+Lots of science-lovin' folks like to say that the laws of Physics are deterministic, and thus everything is determined.
+A recent popular example of this is the book Determined by Robert Sapolsky, a neuroendocrinology researcher, who argues this very point by focusing on Free Will being determined.
+Thing is he argues the point, it's not proven. 
+
+So let's consider the counter-point: that Free Will does exist.
+Well for it to be Free it must not be determined.
+If the physical laws of the Universe _are_ determined though, well what does that mean?
+
+Let's use some other words that come up when talking about Physics, the Universe, and things that exist just doing their thing: natural and unnatural. 
+Natural will be the determined.
+Unnatural is everything else, like Free Will. 
+
+We humans use our Free Will (if it exists) to affect the natural (determined) world around us. 
+I figured there's probably a word for when something unnatural affects something natural...
+
+**magic**: the use of means (such as charms or spells) believed to have supernatural power over natural forces
+
+Super- or un-natural...eh, close enough.
+
+The gesture of friendship I kept coming back to was the high-five. 
+A simple exchange of respect and/or gratitude, mutually rewarding, costing ATP (whether adenosine-triphosphate or activity points is up to you). 
+
+What's the high five online?
+
+I have friends in Portland, but online I'm everywhere.
+
+I want everyone to have friends everywhere. 
+
+That's The Advancement.
 
 
+
+
+
+=================revise below============================
 
 ## So let's hear about these jobs
 
