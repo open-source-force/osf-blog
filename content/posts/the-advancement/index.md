@@ -247,7 +247,7 @@ There are many cool things about using emoji as a passphrase, but the coolest I 
 Just how Cassian could say, "I have friends everywhere," in any hallway on Coruscant and Mon Mothma would respond if she was in earshot, I can drop ☮️💚🏴<200d>☠️  anywhere that text is allowed, which is pretty much everywhere online.
 The only missing piece was how to handle this text, and for that it's best I show you:
 
-# Video Demo Here
+[![This is a short teaser video for The Advancement](./vimeo.png)](https://vimeo.com/manage/videos/1133899411)
 
 ## Anyone need anything?
 
