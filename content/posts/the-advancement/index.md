@@ -8,6 +8,8 @@ updated = "2025-10-11"
 
 # The Advancement
 
+[Now live in beta. Grab the apps here.][the-advancement]
+
 I have a toddler. 
 He goes to a school with other toddlers, and if you've never seen groups of toddlers you'd probably be surprised at how casually violent they are.
 But what's even scarier is that they're like naturals at it.
@@ -338,3 +340,4 @@ Let's see if we can do better than spoiled gruel this time.
 [mirlo]: https://mirlo.space
 [yelp]: https://opensource-force.github.io/osf-blog/posts/wheres-your-band/ 
 [hammer]: https://opensource-force.github.io/osf-blog/posts/no-one-ever-wanted-a-three-headed-hammer/
+[the-advancement]: https://the-advancement.com
