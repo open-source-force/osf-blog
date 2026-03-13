@@ -1,0 +1,23 @@
+Looking out upon my fellow fallen comrades, the lain off, on this platform covered in the corporate slime we have to regurgitate to maintain employability I have reached an end. We may have traded seppuku for severance packages, and forced enlistment for...I guess taking whatever job deigns to offer you a living wage before your unemployment runs out, but as the great 20th Century poet-philosopher Spring of Steen said,
+
+All men want to be rich.
+Rich men want to be kings.
+And a king's not satisfied until he owns everything.
+
+This is not the end result of capitalism, or democracy, or markets. It is the end result of men. People get angry around gendered statements, especially any that purport male superiority, but I have to state simply and explicitly that men are objectively better at amorally hoarding resources, and turning them into various phallic-shaped things for them to shoot all over the goddamn place. I'm sorry if the truth is uncomfortable.
+
+For much of human history this dragon-like need to hoard and destroy has advantaged the biggest dragons. In the last forty years though, it's just left us with brain-rotting leadership, and a handful of nepo babies raping and eating children so they can build phalluses to blast off to nowhere. 
+
+For the past decade, off and on, I've been working on the Open Source infrastructure for a collectivist approach to technology under the incorrect premise that some Marxist revolution would lead us out of this garbage. The code's still here, but perhaps more humble beginnings are necessary. 
+
+I come from the tech startup world. When you start something, you need someone to make the thing (CTO) and someone to sell the thing (CEO). Both of these roles are typically split about 92/8% men to women. The only roles more heavily gender-biased are heavy machinery operator, and the much-loved hedge fund manager. 
+
+Now CTOs come from programming, and programming is heavily gender-biased, and there's a pipeline there that while certainly addressable, tends to require some time and effort to develop the skills (though this barrier is quite lowered by AI, and I encourage folks to test that barrier). But the collective skillset of a CEO, other than the tendency towards being a humungous asshole, overlaps significantly with many people's skillsets. This suggests the disparity is likely due as much to a lack of opportunity as a lack of ability if not more.
+
+If you hang around startup places you'll know that CTOs are in demand, and CEOs are a dime a dozen. It's like the one time as a guy you feel in demand, and this has driven up the price of tech. So now you've got this market where new entrants (women in this regard) are priced out of the most expensive market on the planet. When this is the case, typically new players, junior CTOs I suppose, become available at a discount, but even those are readily scooped up in the brodical circlejerk that is tech entrepreneurialship. 
+
+I was gonna say, be the change you want to see, but I guess Gandhi's the one who said that, and he's a dickhead too so I'll try my hand with perhaps a less controversial quote from perhaps a more controversial figure. As a CTO, I'm going to pledge to only lend my services to non-male CEOs at a discount from the market. To do this I have created a shoppe: <link> where any enterprising non-male can book my services at a rate of $19.74/hr (feel free to pay more if you've got it). 1974 being the year the US made it so that women could have credit, and thus a reminder of just how stupid all of this country's dick-waving has been.
+
+I've referred to my work as something like Tolkien's Legendarium, the million-plus word mythos that sets the world of The Hobbit and The Lord of the Rings which neither you nor I have read, but needed to exist for those masterpieces to. He is a better writer, but I may just be a better coder.
+
+I have yet to find my Hobbit, but my thesis here is that I don't have to invent a race of furry-footed halflings to help the party recover the hoard from beneath Smaug, and that instead the inheritors of the Earth may just have been with us all along.
