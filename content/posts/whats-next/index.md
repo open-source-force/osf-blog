@@ -1,3 +1,11 @@
++++
+title = "What's next"
+date = "2026-05-01"
+updated = "2026-05-01"
++++
+
+#### from the desk of [Zach][4es]
+
 ![A still of Alec Baldwin from Glengarry Glenn Ross where he's saying, "Always Be Closing"](./alec.png)
 
 In the fantastic film adaptation of David Mamet's Glengarry Glen Ross (tw it has Kevin Spacey, no you should not let that stop you from watching it), the speculative real estate firm that sells the eponymous leads' best salesman, played by Al Pacino, turns toward Jack Lemmon's Shelley "The Machine" Levene, and exclaims, "it is not the world of men machine!" 
@@ -84,3 +92,4 @@ I want to hear your ideas the other 364 days, and I want to help.
 
 
 [machine]: https://www.youtube.com/watch?v=goD7b1DBsyw
+[4es]: https://4es.world
