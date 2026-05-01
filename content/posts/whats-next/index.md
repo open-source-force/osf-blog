@@ -1,0 +1,95 @@
++++
+title = "What's next"
+date = "2026-05-01"
+updated = "2026-05-01"
++++
+
+#### from the desk of [Zach][4es]
+
+![A still of Alec Baldwin from Glengarry Glenn Ross where he's saying, "Always Be Closing"](./alec.png)
+
+In the fantastic film adaptation of David Mamet's Glengarry Glen Ross (tw it has Kevin Spacey, no you should not let that stop you from watching it), the speculative real estate firm that sells the eponymous leads' best salesman, played by Al Pacino, turns toward Jack Lemmon's Shelley "The Machine" Levene, and exclaims, "it is not the world of men machine!" 
+
+Glengarry Glen Ross is one of those newly incorporated exurbs that were popular in the 90s where you could by land for cheap, compared to where you lived, for a lake or summer home. 
+My parents bough a plot at Lake Carrol right around when the movie came out. 
+There are sales leads for the properties, and someone steals them.
+
+The plot of the movie is about who stole them.
+The point of the movie is the absurdity of all of it.
+
+If you watch [the clip of the line][machine], Pacino is talking about how the investigation is causing his sales to not be verified.
+Then he celebrates Lemmon for lying to customers, and is then casually racist. 
+In 1992 I'm quite certain the absurdity of this was lost on the audience. 
+
+Thankfully I watched this back in the aughts.
+The world of men is one where Alec Baldwin shows up to tell you you can't drink coffee unless you fleece some poor saps to buy property a hundred miles away. 
+
+I think about that line a lot. 
+Because how else to explain the 34 years since Pacino spoke it than the (hopefully last) grasps at a world dominated by men at the expense of all others? 
+
+Someone hasn't gotten the memo that the world of men ended during the Reagan administration, and so we have to deal with a handful of Viagrans saying stupid shit like things need to be more masculine, and we're going to blow up Iran.
+I think everyone's pretty much done with Viagrans, and so the question is how do we move the resources making Viagrans Viagrans to other folks?
+
+Here we turn to one of the greatest modern philosophers Springsteen of Jersey, who said:
+
+> All men want to be rich / Rich men want to be kings / and a king ain't satisfied 'til he rules everything.
+
+There is a movement called No More Kings for a reason.
+They are the Viagrans. 
+Those who live just to make things harder for everyone else. 
+
+I'm unaware of any philosophers' idea on the comparable reduction for women, so I asked Claude about what the top 25 wealthiest women are up to. 
+Compared to men, they spend a lot less time, money, and energy on empire-building, and a lot more time, money, and energy on philanthropy, culture, and civics. 
+So:
+
+> All women want to be ??? / ??? women want to help other people and fill the world with art and help build societies that will endure.
+
+I don't know what ??? is, but presumably it's not being rich.
+Because that's the conceit of the system, that we're all competing to be rich, and that somehow makes the best stuff.
+And that was great 250 years ago because half the Earth was ruled by some weirdo in Britain.
+
+But the world's grown more complicated, and our 90% agrarian economies have been replaced by smart rocks and...well fun beverages have sort of been the cornerstone of human economies for even longer so I guess it's not all that strange we have cafes and microbrews these days.
+Still! None of the philosophers could forsee a world where billions of us were connected at the push of a button. 
+With apologies to The Boss, no longer do all men want to be rich, some just want to stream themselves playing video games.
+
+For better or worse this has pushed pretty much the whole world into a giant mixed economy. 
+I say let's lean into the mixing. 
+
+Getting an org off the ground, whether a tech startup, a non-profit, or just your Etsy shop, takes some time and capital. 
+Since the point of capital is to make more capital, it's the great equalizer right?
+In the great marketplace of ideas, ideas aren't racist right?
+
+About 4% of VC funding goes to POC founders, about 2.3% goes to all-women teams.
+If you're a team of women people of color you're looking at about 0.1% of the VC funding pie. 
+I don't even need to ask Claude about the size of these demographics since racists are constantly reminding us, and somewhat astonishingly evolution has kept the sexes roughly equal. 
+
+![The acceptance rate at Harvard is 3.5%](./harvard.png)
+It is 30 times easier to get into Harvard than it is to get a dollar from a VC as a woman of color.
+
+The tortured venture capitalist would push back claiming there just aren't that many opportunities that even come their way from these groups. 
+I would, uh, venture to guess there are more than one women startups for every fifty male ones, but it kind of doesn't matter. 
+If the problem is a lack of opportunity, let's make more opportunities.
+
+How do you make more opportunities?
+You increase the supply of fundable ventures from these demographics. 
+How do you increase the supply of something?
+You decrease the cost of one of its inputs. 
+
+Since I'm the demo that gets paid the most, it makes the most sense for me to take the haircut. 
+I never wanted to be rich, but I can't say I've found my ??? any more than anyone else.
+Maybe it's alright to have more than one thing.
+Maybe it's alright to help others build communities you may not need.
+Maybe using your unearned wealth to set the world on fire while your wife divorces you because you hung out with literally some of the worst humans to ever exist isn't something to aspire to.
+
+May Day is a reminder of this trick the kings played on us when they fooled us into eight hour days. 
+One day out of 365 is right around the same order of magnitude as the percentage of VC funding that finds its way to women of color.
+How 'bout we keep this day the reminder, but increase the supply of Maybe's. 
+
+We all know this sucks.
+Let's fix it together.
+I want to hear your ideas the other 364 days, and I want to help.
+
+
+
+[machine]: https://www.youtube.com/watch?v=goD7b1DBsyw
+[4es]: https://4es.world
