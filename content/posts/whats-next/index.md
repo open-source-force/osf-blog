@@ -56,6 +56,7 @@ If you're a team of women people of color you're looking at about 0.1% of the VC
 I don't even need to ask Claude about the size of these demographics since racists are constantly reminding us, and somewhat astonishingly evolution has kept the sexes roughly equal. 
 
 ![The acceptance rate at Harvard is 3.5%](./harvard.png)
+It is 30 times easier to get into Harvard than it is to get a dollar from a VC as a woman of color.
 
 The tortured venture capitalist would push back claiming there just aren't that many opportunities that even come their way from these groups. 
 I would, uh, venture to guess there are more than one women startups for every fifty male ones, but it kind of doesn't matter. 
